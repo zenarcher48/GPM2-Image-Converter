@@ -11,8 +11,8 @@ A tool for applying palettes to images for Grand Prix Manager 2, allowing users 
 
 ## Installation
 
-1. Go to the [Releases](https://github.com/yourusername/GPM2-Image-Converter/releases) page.
-2. Download the latest `GPM2_Image_Converter.exe` file.
+1. Download the latest `GPM2_Image_Converter.exe` file.
+2. Unzip the folder.
 3. Run the downloaded executable.
 
 No installation process is required - the program runs directly from the .exe file.
